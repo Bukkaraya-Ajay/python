@@ -1,7 +1,4 @@
-# Lab 4
-# Author: Ajay Bukkaraya Samudram
-# Email: ajaybn@my.yorku.ca 
-# Student ID: 218409953
+
 
 from random import randint
 
